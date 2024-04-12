@@ -1,0 +1,51 @@
+body{
+    background-image: url('images/tasbih.jpg');
+    background-size: cover;
+    background-repeat: none;
+    background-color: black;
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main-content{
+    margin:auto;
+    text-align: center;
+    background-color: #ffffff99;
+    width: 65%;
+    border-radius:0px 25px 0px 25px;
+    border:3px solid seagreen;
+    margin-top:50px;
+    height: 70vh;
+}
+
+h1{
+    font-size: 3em;
+    padding-top:30px;
+}
+
+h2{
+    font-size: 15em;
+    color: seagreen;
+    text-shadow: 2px 2px 4px black;
+    margin: 0.5em;
+}
+
+button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+    margin-bottom:15px;
+    width: 70%;
+    border-radius:10px;
+    border:2px groove rgb(28, 85, 53);
+    font-size: 3em;
+}
+
+p#previous-entry, p#previous-entry-heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3em;
+}
+
+p.footer{
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
